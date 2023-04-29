@@ -1,2 +1,1 @@
-# erik-repositorio
-esto es una prueba de repositorio
+Esto es una prueba de repositorio a mi escritorio local en windows 11
